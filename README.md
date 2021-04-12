@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ousaghro
+- 👀 I’m interested in ML programmings
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me 
